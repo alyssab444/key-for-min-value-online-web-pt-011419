@@ -13,5 +13,3 @@
   end
   lowest_key
 end
-
-end
